@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 20, 2020 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 20, 2020
 
 **Today's Progress**: Restarted working on freecodecamp's html & html 5 tutorial AND completed it
 
@@ -9,12 +8,12 @@
 
 **Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
 
-### Day 1: June 27, Monday
+... I forgot to save and lost progress of the past... 5 days!
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 6: January 26, 2020
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Completed CSS. Learning Applied Visual Design.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** I SHOULD HAVE SAVED!
+
+**Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
