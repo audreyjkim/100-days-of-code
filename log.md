@@ -17,3 +17,11 @@
 **Thoughts:** I SHOULD HAVE SAVED!
 
 **Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
+
+### Day 9: January 29, 2020
+
+**Today's Progress**: Completed Applied Visual Design. Beginning Applied Accessibility.
+
+**Thoughts:** These certifications say 300 hours, but it's not taking me that long to do these exercises... am I understanding the "hour" concept accurately?
+
+**Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
