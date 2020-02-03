@@ -36,8 +36,8 @@
 
 ### Day 14: February 3, 2020
 
-**Today's Progress**: Completed Applied Accessibility. Beginning Responsive Web Design Principles.
+**Today's Progress**: Completed Applied Accessibility, Responsive Web Design Principles. Beginning Intro to CSS Flexbox
 
-**Thoughts:** Ooh, challenges.
+**Thoughts:** I got duped by the word "challenges."
 
 **Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
