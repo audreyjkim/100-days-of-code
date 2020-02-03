@@ -25,3 +25,19 @@
 **Thoughts:** These certifications say 300 hours, but it's not taking me that long to do these exercises... am I understanding the "hour" concept accurately?
 
 **Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
+
+### Days 10-13: January 30, 2020 - February 2, 2020
+
+**Today's Progress**: None; was sick.
+
+**Thoughts:** Is the AI done yet?! Or will we suffer from computer viruses even if in AI form?
+
+**Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
+
+### Day 14: February 3, 2020
+
+**Today's Progress**: Completed Applied Accessibility. Beginning Responsive Web Design Principles.
+
+**Thoughts:** Ooh, challenges.
+
+**Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
