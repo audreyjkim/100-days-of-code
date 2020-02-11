@@ -41,3 +41,12 @@
 **Thoughts:** I got duped by the word "challenges."
 
 **Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
+
+### Day 15 - 22: February 4 - February 11, 2020
+
+**Today's Progress**: Completed CSS Flexbox, CSS grid. OMG, about to start Responsive web Design Project - Tribute Page
+
+**Thoughts:** grids are DONE! Also, nervous about creating the web design project!
+
+**Link to work:** (N/A) Currently completing freecodecamp's Responsive Web Design Certification
+
